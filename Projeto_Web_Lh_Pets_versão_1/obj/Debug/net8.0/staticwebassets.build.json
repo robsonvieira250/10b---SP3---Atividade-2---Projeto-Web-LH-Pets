@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "K4u/zbO+vmrzw/n24Q5dQuIPJk5d3t46iqTw7ykUJQk=",
+  "Source": "Projeto_Web_Lh_Pets_versão_1",
+  "BasePath": "_content/Projeto_Web_Lh_Pets_versão_1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Projeto_Web_Lh_Pets_versão_1\\wwwroot",
+      "Source": "Projeto_Web_Lh_Pets_versão_1",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\10b-SP3-ATIVIDADE 2 - PROJETO WEB LH-PETS\\Projeto_Web_Lh_Pets_versão_1\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web_Lh_Pets_versão_1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\10b-SP3-ATIVIDADE 2 - PROJETO WEB LH-PETS\\Projeto_Web_Lh_Pets_versão_1\\wwwroot\\index.html",
+      "SourceId": "Projeto_Web_Lh_Pets_versão_1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\10b-SP3-ATIVIDADE 2 - PROJETO WEB LH-PETS\\Projeto_Web_Lh_Pets_versão_1\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web_Lh_Pets_versão_1",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
